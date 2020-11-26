@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+button {
+  border: none;
+  padding: 10px;
+  margin: 10px;
+}
+.dark-theme {
+  background-color: rgb(26, 21, 21);
+  color: whitesmoke;
+}
+.light-theme {
+  background-color: whitesmoke;
+  color: rgb(26, 21, 21)
+}
