@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  background-color: orange (219, 207, 207);
+}
+.title {
+  background-color: blue;
+  height: 6em;
+  padding: 30px;
+  margin: 0;
+  color: rgb(201, 133, 6) (219, 207, 207);;
+}
+.input {
+  margin: 10px;
+  height: 2em;
+  width: 14em;
+}
+button {
+  background-color:whitesmoke;
+  border: none;
+  color: rgb(75, 75, 204) (219, 207, 207);
+  height: 2.5em;
+  width: 6em;
+}
+img {
+  height: 12em;
+  width: 12em;
+}
