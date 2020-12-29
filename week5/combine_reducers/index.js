@@ -1,4 +1,4 @@
-const store = require("./redux/store")
+const store = require("./state/store")
 const {addMovie, removeMovie, getMovie} = require("./state/movie")
 const {addTvShow, removeTvShow, getTvShow} = require("./state/tvShows")
 
